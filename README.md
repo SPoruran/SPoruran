@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cloud Learning
 - 🌱 I’m currently learning Azure Fundamentals
 - 💞️ Currently acquiring in-depth knowledge of Java
-- 📫 How to reach me ... www.linkedin.com/in/shobhaporuran
+- 📫 How to reach me ... <a href="https://www.linkedin.com/in/shobhaporuran/" target="_blank">ShobhaPoruran</a>
 
 <!---
 SPoruran/SPoruran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
